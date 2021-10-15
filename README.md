@@ -1,4 +1,4 @@
-# galaxy
+# DATON GALAXY
 
 Daton is an open source community driven data galaxy for all blockchain smart contracts. When smart contracts connect to outside world, Daton is the gateway to a galaxy of data stations enabling smart contract empowered by real world data.
 
