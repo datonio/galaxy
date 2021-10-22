@@ -1,0 +1,3 @@
+[submodule "jaguardb"]
+	path = jaguardb
+	url = https://github.com/datajaguar/jaguardb.git
